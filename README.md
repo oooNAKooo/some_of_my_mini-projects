@@ -8,7 +8,7 @@
 
 - &ensp;[Python](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/Python);
 
-- &ensp;[C](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/C).
+- &ensp;[C](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/%D0%A1).
 
 ##
 ## EN:
@@ -19,5 +19,5 @@
 
 - &ensp;[Python](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/Python);
 
-- &ensp;[C](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/C).
+- &ensp;[C](https://github.com/oooNAKooo/some_of_my_mini-projects/tree/main/%D0%A1).
 ##
